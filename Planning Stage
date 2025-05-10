@@ -1,1 +1,27 @@
-We will plan the games mechanics and overview here. 
+1.We will plan the games mechanics and overview here. 
+----
+2.get assets ready and make a scene
+	1. organize assets
+	2. set asset attributes(nanite such)
+
+3. Create Test scene
+	1. Attributes
+		1. Health
+		2. Mana
+		3. endurance
+	2. Enemy
+		1. actions(link to char controller)
+		2. ai
+	3. Inventory
+		1. Enemy drops and pickup
+	4. Talk to someone
+		1. get quest
+
+4. Test 
+	1. multi
+	2. pve
+	3. ---
+	4. talking
+	5. inventory
+	6. drops
+	7. chests
