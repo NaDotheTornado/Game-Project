@@ -7,7 +7,6 @@
 3. Create Test scene
 	1. Attributes
 		1. Health
-		2. Mana
 		3. endurance
 	2. Enemy
 		1. actions(link to char controller)
